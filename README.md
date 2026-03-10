@@ -7,8 +7,6 @@ The repository contains two simple projects that demonstrate how applications co
 * **Weather API Demo**: a simple frontend web app that retrieves weather information for a city using the **OpenWeatherMap API**.
 * **OpenAI API Demo**: a small **Flask application** that sends prompts to the **OpenAI API** and displays the generated response in a webpage.
 
-
-# Features
 <p align="center">
   <img src="assets/weather-api-demo.jpg">
 </p>
@@ -16,6 +14,8 @@ The repository contains two simple projects that demonstrate how applications co
 <p align="center">
   <img src="assets/openai-api-demo.jpg">
 </p>
+
+# Features
 
 ## Weather API Demo
 
