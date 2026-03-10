@@ -89,7 +89,7 @@ rest-api-demos
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rest-api-applications.git
+git clone https://github.com/stephaniebittner802/rest-api-demos.git
 cd rest-api-demos
 ```
 
