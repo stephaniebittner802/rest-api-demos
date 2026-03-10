@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #74b9ff, #a29bfe);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather-container {
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    width: 90%;
+    max-width: 420px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #2d3436;
+    font-size: 2rem;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 12px;
+    font-size: 1rem;
+    border: 2px solid #dfe6e9;
+    border-radius: 10px;
+    outline: none;
+    margin-bottom: 15px;
+    transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus {
+    border-color: #6c5ce7;
+}
+
+button {
+    background: #6c5ce7;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background: #5a4bd6;
+    transform: translateY(-2px);
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.1rem;
+    color: #2d3436;
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 12px;
+    min-height: 30px;
+}
