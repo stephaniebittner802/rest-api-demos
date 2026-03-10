@@ -10,11 +10,11 @@ The repository contains two simple projects that demonstrate how applications co
 
 # Features
 <p align="center">
-  <img src="assets/weather-api-demo.jpg" width="300">
+  <img src="assets/weather-api-demo.jpg">
 </p>
 
 <p align="center">
-  <img src="assets/openai-api-demo.jpg" width="300">
+  <img src="assets/openai-api-demo.jpg">
 </p>
 
 ## Weather API Demo
