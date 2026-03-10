@@ -9,6 +9,13 @@ The repository contains two simple projects that demonstrate how applications co
 
 
 # Features
+<p align="center">
+  <img src="assets/weather-api-demo.jpg" width="300">
+</p>
+
+<p align="center">
+  <img src="assets/openai-api-demo.jpg" width="300">
+</p>
 
 ## Weather API Demo
 
@@ -65,6 +72,10 @@ The repository contains two simple projects that demonstrate how applications co
 ```bash
 rest-api-demos
 │
+├── assets
+│   ├── openai-api-demo.jpg
+│   └── weather-api-demo.jpg
+│
 ├── weather-api-demo
 │   ├── config.js
 │   ├── index.html
@@ -80,7 +91,8 @@ rest-api-demos
 │   │   └── index.html
 │   └── .env
 │
-└── README.md
+├── README.md
+└── REST APIs Presentation Slides.pdf
 ```
 
 
